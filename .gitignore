@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS & editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Process files (PM2 or others)
+pids
+*.pid
+*.seed
+
+# Coverage reports
+coverage/
+
+# Build (if any prebuilt or dist folders)
+dist/
+
+# Optional: backup or swap files
+*.swp
+*.swo
